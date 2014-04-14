@@ -15,7 +15,7 @@ Design Paradigms
 --------------------
 + Heated Build Plate
 + Enclosed build area
-+ ~1600π cm^3^ build volume
++ ~1600π cm^3 build volume
 
 Cool Features to Look Into
 --------------------------
