@@ -20,7 +20,7 @@ Design Paradigms
 Cool Features to Look Into
 --------------------------
 + Positive pressure build area
-+   + This should ensure that drafts and other exterior temperature phenomena do not affect prints.
+  + This should ensure that drafts and other exterior temperature phenomena do not affect prints.
 + "drag and drop" printing.
-+   + Printing should be as easy as putting a file on an SD card, then inserting the card in the printer.
+  + Printing should be as easy as putting a file on an SD card, then inserting the card in the printer.
 + All metal extruder?
